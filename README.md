@@ -1,2 +1,2 @@
 # spring-6-webapp
-Learning spring 6
+This is a sample project for learning spring 6
